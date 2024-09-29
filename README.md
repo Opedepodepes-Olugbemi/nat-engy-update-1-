@@ -11,7 +11,8 @@ This app is used to monitor the energy consumption of devices in a particular lo
 - db
 
 ## how to run the app
-- clone the repo
+- clone the repo `https://github.com/Opedepodepes-Olugbemi/nat-engy-update-1-.git`
 - run `npm install`
 - cd into the src folder and run `node server.mjs`
 - open your browser and navigate to `http://localhost:3000`
+
