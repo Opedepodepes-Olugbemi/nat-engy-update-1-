@@ -119,7 +119,7 @@ button.remove-device {
     color: white;
     border: none;
     padding: 5px 10px;
-    cursor: pointer;
+    cursor: progress;
     border-radius: 3px;
 }
 
