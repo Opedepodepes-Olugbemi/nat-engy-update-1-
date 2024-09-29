@@ -9,7 +9,7 @@
     "start": "node server.mjs"
   },
   "keywords": [],
-  "author": "Natachi John",
+  "author": "Natachi Ben",
   "license": "ISC",
   "dependencies": {
     "db": "^6.0.3",
