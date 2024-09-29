@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nat-Engy Dashboard</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <h1>Device Management</h1>
+
+    <%- include('partials/navbar') %>
+
+    <div id="card">
+        <%- include('deviceSelection') %>
+    </div>
+
+    <%- include('partials/footer') %>
+
+    <script type="module" src="/js/dashboard.mjs"></script>
+</body>
+</html>
